@@ -1,0 +1,255 @@
+.plan {
+    width: 100%;
+    position: absolute;
+}
+
+.logo {
+    position: relative;
+    top: 30px;
+}
+
+.text  {
+    display: block;
+    margin: 0 auto;
+    margin-left: 60px;
+    margin-top: 150px;
+    color: #767676;
+    width: 1000px;
+    font-size: 32px;
+    font-family: "OpenSans-Bold";
+    text-align: center;
+}
+
+a.bouton {
+    padding: 30px 350px;
+    background: #93AA56;
+    color: #000000;
+    border-radius: 60px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: "OpenSans-Bold";
+    color: #EBEBEB;
+    font-size: 12px;
+    display: block;
+    margin: auto;
+    margin-top: 200px;
+    margin-left: 110px;
+}
+
+a.bouton2 {
+    padding: 30px 350px;
+    background: #93AA56;
+    color: #000000;
+    border-radius: 60px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: "OpenSans-Bold";
+    color: #EBEBEB;
+    font-size: 12px;
+    display: block;
+    margin: auto;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.dot{
+    width: 300px;
+    height: 50px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 70px;
+    padding-left: 150px;
+}
+
+.dot_img{
+    width: 250px;
+    height: 50px;
+}
+
+.text-2  {
+    display: block;
+    margin: 0 auto;
+    margin-left: 60px;
+    margin-top: 150px;
+    color: #767676;
+    width: 1000px;
+    font-size: 40px;
+    font-family: "OpenSans-Bold";
+    text-align: center;
+}
+
+.map{
+    display: block;
+    margin: 0 auto;
+    padding-left: 150px;
+}
+
+.three-texts {
+
+    width: 1000px;
+}
+
+.bag-text{
+    text-align: center;
+    font-family: "OpenSans-Bold";
+    color: #767676;
+    font-size: 14px;
+    display: block;
+    margin: 0 auto;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.scale-text{
+    text-align: center;
+    font-family: "OpenSans-Bold";
+    color: #767676;
+    font-size: 14px;
+    display: block;
+    margin: 0 auto;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.reward-text{
+    text-align: center;
+    font-family: "OpenSans-Bold";
+    color: #767676;
+    font-size: 14px;
+    display: block;
+    margin: 0 auto;
+    padding-left: 150px;
+    padding-top: 50px;
+}
+
+.logo2{
+    display: block;
+    margin: 0 auto;
+    padding-top: 500px;
+}
+
+a.facebook {
+    padding: 40px 350px 40px 300px;
+    background: #3A5997;
+    border-radius: 60px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "OpenSans-Bold";
+    color: #EBEBEB;
+    font-size: 18px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 200px;
+    width: 50px;
+}
+
+a.email {
+    padding: 40px 350px 40px 300px;
+    background: #D6D6D6;
+    border-radius: 60px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "OpenSans-Bold";
+    color: #484848;
+    font-size: 18px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 50px;
+}
+
+a.sign-in {
+    padding: 40px 350px 40px 300px;
+    background: #D6D6D6;
+    border-radius: 60px;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "OpenSans-Bold";
+    color: #484848;
+    font-size: 18px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 250px;
+    width: 50px;
+}
+
+.back{
+    width: 30px;
+    height: 50px;
+    margin-top: 200px;
+    margin-left: 150px;
+}
+
+.logo3{
+    display: block;
+    margin: 0 auto;
+    padding-top: 300px;
+}
+
+.email-container{
+    margin-top: 200px;
+}
+
+.password-container{
+    margin-top: 70px;
+}
+
+.email-text{
+    font-size: 26px;
+    font-family: "OpenSans-Bold";
+    color: #EBEBEB;
+    padding-left: 120px;
+    
+}
+
+.email-line{
+    margin-top: 60px;
+}
+
+a.sign-in-end {
+    padding: 40px 350px 40px 300px;
+    background: #D6D6D6;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "OpenSans-Bold";
+    color: #484848;
+    font-size: 18px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 100px;
+    width: 50px;
+}
+
+.header{
+    width: 100%;
+    height: 300px;
+    background: #DEDEDE;
+    text-align: center;
+    font-family: "OpenSans-SemiBold";
+    color: #484848;
+    font-size: 40px;
+    padding-top: 50px;
+
+}
+
+
+.landing_img{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.footer{
+    display: flex;
+    width: 100%;
+    box-shadow: 0px -6px 5px #DEDEDE; 
+}
+
+.qr{
+    width: 400px;
+    text-align: center;
+    margin-top: 20px;
+}
